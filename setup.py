@@ -12,7 +12,7 @@ setup(
     author = "Devansh Raghav",
     license = "MIT",
     keywords = ["MatchX", "Bug Bounty", "pentesting", "security", "hacking"],
-    url = "https://github.com/whoamisec75/MatchX",
+    url = "https://github.com/Nefcore/MatchX",
     packages=find_packages(),
     classifiers=[
         "Intended Audience :: Developers",
