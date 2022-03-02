@@ -1,4 +1,4 @@
-# MatchX
+<h1 align="center">MatchX</h1>
 MatchX is specially designed for matching/finding `Strings` and `Regex patterns` in the HTTP responses with concurrency. This tool can help `Security researchers` to find multiple `CVE's` (that are already found) and `Vulnerabilities` like - Reflected XSS, SQLi, Sensitive data leakage, LFI etc.
 
 ## Installation
